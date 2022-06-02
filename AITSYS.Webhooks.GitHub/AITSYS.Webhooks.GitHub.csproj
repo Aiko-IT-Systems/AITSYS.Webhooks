@@ -27,4 +27,9 @@
 	<ProjectReference Include="..\AITSYS.Webhooks\AITSYS.Webhooks.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="Entities\" />
+  </ItemGroup>
+
 </Project>
