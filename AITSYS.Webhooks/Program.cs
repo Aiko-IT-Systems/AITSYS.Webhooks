@@ -22,7 +22,7 @@
 
 using System;
 
-namespace AITSYS.Webhooks.GitHub
+namespace AITSYS.Webhooks
 {
 	internal class Program
 	{

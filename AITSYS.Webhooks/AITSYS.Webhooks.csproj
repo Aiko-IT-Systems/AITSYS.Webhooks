@@ -7,14 +7,14 @@
   <Import Project="../Library.targets" />
 
   <PropertyGroup>
-    <AssemblyName>AITSYS.Webhooks.GitHub</AssemblyName>
-    <RootNamespace>AITSYS.Webhooks.GitHub</RootNamespace>
+    <AssemblyName>AITSYS.Webhooks</AssemblyName>
+    <RootNamespace>AITSYS.Webhooks</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>AITSYS.Webhooks.GitHub</PackageId>
-    <Description>A C# webhook receiver for GitHub.</Description>
-    <PackageTags>github, gh, csharp, dotnet, vb-net, fsharp, webhooks</PackageTags>
+    <PackageId>AITSYS.Webhooks</PackageId>
+    <Description>Various C# webhook tools.</Description>
+    <PackageTags>csharp, dotnet, vb-net, fsharp, webhooks</PackageTags>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
@@ -24,7 +24,6 @@
     <PackageReference Include="System.Memory" Version="4.5.5" />
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
     <PackageReference Include="System.Runtime.InteropServices.RuntimeInformation" Version="4.3.0" />
-	<ProjectReference Include="..\AITSYS.Webhooks\AITSYS.Webhooks.csproj" />
   </ItemGroup>
 
 </Project>
