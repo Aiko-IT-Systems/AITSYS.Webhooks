@@ -7,7 +7,7 @@
     <PackageProjectUrl>https://github.com/Aiko-IT-Systems/AITSYS.Webhooks</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Aiko-IT-Systems/AITSYS.Webhooks</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
-    <PackageIcon>logo.png</PackageIcon>
+    <PackageIcon>logo_black.png</PackageIcon>
     <PackageLicenseExpression />
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
