@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Authors>Aiko-IT-Systems, Lala Sabathil, aiko, AITSYS Contributors</Authors>
-    <Company>Aiko IT Systems</Company>
+    <Authors>AITSYS, aiko, AITSYS Contributors</Authors>
+    <Company>AITSYS</Company>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/Aiko-IT-Systems/AITSYS.Webhooks</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Aiko-IT-Systems/AITSYS.Webhooks</RepositoryUrl>
@@ -20,7 +20,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\AITSYS.Webhooks.Logos\logo.png">
+    <None Include="..\AITSYS.Webhooks.Logos\logo_black.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>

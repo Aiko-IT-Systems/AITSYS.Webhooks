@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <Import Project="../Version.targets" />
-  <Import Project="../AITSYS.Webhooks.targets" />
+  <Import Project="../AITSYS.targets" />
   <Import Project="../Package.targets" />
   <Import Project="../NuGet.targets" />
   <Import Project="../Library.targets" />
